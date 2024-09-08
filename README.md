@@ -5,7 +5,7 @@ This repository contains the source code for the project based on our research p
 
 [**G-CLAHE: Link to the Paper**](https://www.worldscientific.com/doi/10.1142/S0218001424570106)
 
-If you find this work useful and incorporate it into your own research or projects, please kindly cite our paper.
+If you find this work useful or incorporate it into your own research or projects, please kindly cite our paper.
 
 To cite this repository, you can use the citation option on the right-hand side ("Cite this repository"), or use the provided `citation.bib` file for BibTeX format.
 
