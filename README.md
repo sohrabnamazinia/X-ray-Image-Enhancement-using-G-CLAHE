@@ -11,4 +11,4 @@ To cite this repository, you can use the citation option on the right-hand side 
 
 Thank you for respecting our work!
 
-The project report & source code will be added soon
+The project source code will be added soon. If you need to access the source code now, you can reach out to me via email.
